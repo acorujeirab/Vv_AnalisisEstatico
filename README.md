@@ -22,3 +22,4 @@ Un código facilmente mantenible, es un código facilmente verificable. En relac
 * Cada uno de los 10 principios se evalúa en base a unos parámetros que BCH indica. Esto nos ayuda tanto a entender como funciona la herramienta como a aprender buenas prácticas a la hora de programar haciendo el código más mantenible y verificable.
 * Se pueden excluir ficheros del análisis de BCH añadiendolos a un archivo de configuración siguiendo un tutorial sencillo que ofrece BCH
 * BCH puntua del 0 al 10 el código tanto en cada uno de los 10 principios como en conjunto siendo más sencillo ver en que aspectos el código está mejor o peor codificado y estructurado. 
+* Muestra cada error o posible mejora que encuentra indicando la línea y el archivo.
