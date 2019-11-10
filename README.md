@@ -3,6 +3,8 @@
 
 Para esta entrega, utilizaré una herramienta de análisis estático llamada Better Code Hub (BCH).
 Esta herramienta permite analizar el código de los distintos repositorios de GitHub, exigiendo autorización de lectura sobre todos los repositorios de la cuenta con la que se inicia sesión.
+Para inicializar el análisis únicamente es necesario pulsar el botón "Analize" que nos mostrará los resultados del análisis. Dividido en 10 campos, cada uno cuenta con los parámetros y una pequeña guía indicando su funcionamiento.
+En este vídeo, realizaré el análisis y mostraré los resultados, parámetros y guía de uno de los 10 campos dado que son todos similares.
 
 Algunas de las propiedades más descatable de esta herramienta son:
 
