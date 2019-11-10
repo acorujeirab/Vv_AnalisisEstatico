@@ -1,4 +1,4 @@
-# Vv_AnalisisEstatico
+# Propiedades BCH
 
 
 Para esta entrega, utilizaré una herramienta de análisis estático llamada Better Code Hub (BCH).
