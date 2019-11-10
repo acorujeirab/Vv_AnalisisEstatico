@@ -20,7 +20,7 @@ Algunas de las propiedades más descatable de esta herramienta son:
     9. Automatizar las pruebas
     10. Escribir código limpio
    
-Un código facilmente mantenible, es un código facilmente verificable. En relación con la asignatura, esta herramineta ayudaría a realizar la tarea pedida a los alumnos en las prácticas. La técnica de ReadingByAbstraccion y Checklist buscan un objetivo similar a BCH, hacer código funcional y de calidad.
+Un código facilmente mantenible, es un código facilmente verificable. En relación con la asignatura, esta herramineta ayudaría a realizar la tarea pedida a los alumnos en las prácticas. La técnica de ReadingByAbstraccion y Checklist buscan un objetivo similar y complementario a BCH, hacer código funcional y de calidad.
 
 * Cada uno de los 10 principios se evalúa en base a unos parámetros que BCH indica. Esto nos ayuda tanto a entender como funciona la herramienta como a aprender buenas prácticas a la hora de programar haciendo el código más mantenible y verificable.
 * Se pueden excluir ficheros del análisis de BCH añadiendolos a un archivo de configuración siguiendo un tutorial sencillo que ofrece BCH
